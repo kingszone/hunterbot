@@ -2,5 +2,5 @@
 	"ip":"kingssmp11.aternos.me",
 	"port": "35507",
 	"name": "Hunteribbbot",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
